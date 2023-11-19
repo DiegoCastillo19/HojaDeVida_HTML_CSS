@@ -1,0 +1,38 @@
+…or create a new repository on the command line
+echo "# HojaDeVida_HTML_CSS" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/DiegoCastillo19/HojaDeVida_HTML_CSS.git
+  git push -u origin main
+  
+  
+…or push an existing repository from the command line
+git remote add origin https://github.com/DiegoCastillo19/HojaDeVida_HTML_CSS.git
+  git branch -M main
+  git push -u origin main
+  
+  
+…or import code from another repository
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
+…o crear un nuevo repositorio en la línea de comando
+echo "# HojaDeVida_HTML_CSS" >> README.md 
+  git init 
+  git add README.md 
+  git commit -m "primer compromiso" 
+  git rama -M principal 
+  git remoto agregar origen https://github.com/DiegoCastillo19/HojaDeVida_HTML_CSS.git
+   git push - u origen principal
+   
+   
+…o enviar un repositorio existente desde la línea de comando
+git remoto agregar origen https://github.com/DiegoCastillo19/HojaDeVida_HTML_CSS.git
+   git rama -M principal 
+  git push -u origen principal
+  
+  
+…o importar código desde otro repositorio
+Puede inicializar este repositorio con código de un proyecto Subversion, Mercurial o TFS.
